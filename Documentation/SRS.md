@@ -77,7 +77,7 @@
 
 Окно для и добавления новых чеков.
 
-![Окно для и добавления новых чеков.](../Documentation/Mockups/Adding new check.png)
+![Окно для и добавления новых чеков.](Documentation/Mockups/Adding new check.png)
 
 <a name ="user_characteristics"><a/>
 

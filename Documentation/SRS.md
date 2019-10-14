@@ -73,11 +73,28 @@
 
 Окно для просмотра сохраненных чеков.
 
-![Окно для просмотра сохраненных чеков](../Documentation/Mockups/Check_List.png)
+![Окно для просмотра сохраненных чеков](../Documentation/Mockups/Main.png)
 
 Окно для и добавления новых чеков.
 
-![Окно для и добавления новых чеков.](../Documentation/Mockups/Adding_new_check.png)
+![Окно для и добавления новых чеков.](../Documentation/Mockups/Add.png)
+
+
+Окно для редактирования чеков.
+
+![Окно для редактирования чеков.](../Documentation/Mockups/Edit.png) 
+
+Всплывающее окно удаления чека.
+
+![Всплывающее окно удаления чека.](../Documentation/Mockups/Delete.png) 
+
+Всплывающее окно экспорта чеков.
+
+![Всплывающее окно экспорта чеков.](../Documentation/Mockups/Export.png) 
+
+Всплывающее окно импорта чеков.
+
+![Всплывающее окно импорта чеков.](../Documentation/Mockups/Import.png) 
 
 <a name ="user_characteristics"><a/>
 

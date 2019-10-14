@@ -79,7 +79,6 @@
 
 ![Окно для и добавления новых чеков.](../Documentation/Mockups/Add.png)
 
-
 Окно для редактирования чеков.
 
 ![Окно для редактирования чеков.](../Documentation/Mockups/Edit.png) 

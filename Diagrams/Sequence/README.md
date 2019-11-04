@@ -2,12 +2,12 @@
 ---
 ## Составление чека
 
-![Create_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/AddCH.PNG)
+![Create_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/AddCH1.png)
 
 ## Редактирование чека
 
-![Change_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/RedCH.PNG)
+![Change_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/EditCheck1.png)
 
 ## Удаление чека
 
-![Delete_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/DelCH.PNG)
+![Delete_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/DelCH1.png)

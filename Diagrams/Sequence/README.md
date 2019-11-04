@@ -10,4 +10,4 @@
 
 ## Удаление чека
 
-![Delete_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/DelCH1.png)
+![Delete_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/DelCH2.png)

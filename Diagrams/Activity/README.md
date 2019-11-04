@@ -2,12 +2,12 @@
 ---
 ## Составление чека
 
-![Create_Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/CreatingCheck.png)
+![Create_Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/CreatingCheck1.png)
 
 
 ## Редактирование чека
 
-![Changing Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/ChangingCheck.png)
+![Changing Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/ChangingCheck1.png)
 
 
 ## Удаление чека

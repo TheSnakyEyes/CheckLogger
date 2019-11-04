@@ -2,7 +2,7 @@
 # Диаграмма прецедентов
 ---
 
-![Use Case](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/UseCase/UseCase.png)
+![Use Case](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/UseCase/UseCase1.png)
 
 
 # Содержание

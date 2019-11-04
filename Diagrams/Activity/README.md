@@ -10,6 +10,6 @@
 ![Changing Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/ChangingCheck.png)
 
 
-## Просмотр рецепта
+## Удаление чека
 
 ![Delete Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/DeleteCheck.png)

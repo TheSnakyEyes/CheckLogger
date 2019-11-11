@@ -2,7 +2,7 @@
 ---
 ## Составление чека
 
-![Create_Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/add.jpg)
+![Create_Check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Activity/Add.jpg)
 
 
 ## Редактирование чека

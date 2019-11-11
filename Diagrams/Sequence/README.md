@@ -2,7 +2,7 @@
 ---
 ## Составление чека
 
-![Create_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/Sadd.jpg)
+![Create_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/SAdd.jpg)
 
 ## Редактирование чека
 
@@ -18,5 +18,5 @@
 
 ## Экспорт чека
 
-![Export_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/Sexport.jpg)
+![Export_check](https://github.com/TheSnakyEyes/CheckLogger/blob/master/Diagrams/Sequence/Sexpotr.jpg)
 
